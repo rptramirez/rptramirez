@@ -58,7 +58,7 @@
 _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
 <a href="https://github.com/wardvisual?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wardvisual&show_icons=true&include_all_commits=true&theme=radical" alt="Edward's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rptramirez&show_icons=true&include_all_commits=true&theme=radical" alt="Paolo's github stats" />
 </a>
 <a href="https://github.com/rptramirez?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rptramirez&layout=compact&theme=radical" />
