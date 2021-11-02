@@ -8,7 +8,7 @@ Paolo Ramirez
 ## I'm a Javascript Developer!
 
 - 🔭 Currently working as a React Developer for an e-commerce business company
-- 🎯 As an IT professiona;, I'm very focused right now on the overall progress of my career and I always research to keep up with the latest trends of technology.
+- 🎯 As an IT professional I'm very focused right now on the overall progress of my career and I always research to keep up with the latest trends of technology.
 
 ### Connect with me:
 
