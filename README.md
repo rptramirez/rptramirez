@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/Gmail-rptramirez19@gmail.com-red)](mailto:rptramirez19@gmail.com) [![](https://img.shields.io/badge/Linkedin-Ronald%20Paolo%20Ramirez-blue)](https://www.linkedin.com/in/wardvisual/)
+[![](https://img.shields.io/badge/Gmail-rptramirez19@gmail.com-red)](mailto:rptramirez19@gmail.com) [![](https://img.shields.io/badge/Linkedin-Ronald%20Paolo%20Ramirez-blue)]
  <img src="https://komarev.com/ghpvc/?username=your-github-rptramirez&style=flat-square" alt="Paolo Ramirez" /> 
 
 Paolo Ramirez
