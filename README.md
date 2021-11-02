@@ -48,7 +48,6 @@ Paolo Ramirez
 <img align="left" alt="TailwindCSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
 <img align="left" alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Styled Component" width="30px" src="https://styled-components.com/atom.png" />
-<br/>
 <img align="left" alt="Webpack" width="26px" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" />
 
 <br />
